@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "action": "block",
+    "direction": "any",
+    "protocol": "tcp",
+    "src_ip": "10.201.110.174",
+    "dst_ip": "any",
+    "src_port": "any",
+    "dst_port": "any"
+  }
+]
